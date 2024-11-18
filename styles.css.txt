@@ -1,0 +1,63 @@
+/* styles.css */
+
+/* Đặt font chữ chung cho trang */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* Màu nền sáng */
+}
+
+/* Header với màu xanh dương đậm */
+header {
+    background-color: #1e3a8a; /* Xanh dương đậm */
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+/* Phần nội dung chính */
+.content {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Màu tiêu đề con (h2) */
+h2 {
+    color: #1e40af; /* Màu xanh dương trung bình */
+    font-size: 24px;
+}
+
+/* Footer với màu xanh dương nhạt */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #3b82f6; /* Xanh dương nhạt */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+/* Nút bấm (button) với màu xanh dương đặc biệt */
+button {
+    background-color: #2563eb; /* Xanh dương trung bình */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #1d4ed8; /* Xanh dương đậm khi hover */
+}

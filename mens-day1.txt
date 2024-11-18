@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ngày Quốc Tế Đàn Ông</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Liên kết tới file CSS -->
+</head>
+<body>
+    <header>
+        <h1>Chúc Mừng Ngày Quốc Tế Đàn Ông</h1>
+    </header>
+
+    <section class="content">
+        <h2>Ý nghĩa của ngày này</h2>
+        <p>Ngày Quốc tế Đàn ông 19/11 là dịp để tôn vinh những đóng góp của nam giới trong mọi lĩnh vực, đồng thời nâng cao nhận thức về sức khỏe và quyền lợi của họ.</p>
+        <p>Chúng ta cùng chúc mừng những người đàn ông tuyệt vời trong cuộc sống của mình!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ngày Quốc Tế Đàn Ông</p>
+    </footer>
+</body>
+</html>
